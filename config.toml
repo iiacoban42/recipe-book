@@ -1,4 +1,5 @@
 baseURL = "https://iiacoban42.github.io/recipe-book/"
+canonifyURLs = true
 languageCode = "en-us"
 title = "Tasty Bytes 🔥"
 theme = "recipes"
