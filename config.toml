@@ -1,4 +1,4 @@
-baseURL = "https://iiacoban42.github.io/recipe-book/"
+baseURL = "https://iiacoban42.github.io/tasty-bytes/"
 canonifyURLs = true
 languageCode = "en-us"
 title = "Tasty Bytes 🔥"
