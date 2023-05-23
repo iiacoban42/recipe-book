@@ -24,13 +24,13 @@ featured_image: "/gnocchi-bolognese.jpg"
 - salt
 - pepper
 - bay leaves
-- Italian herbs of your choice oregano, basil, thyme, rosemary
+- Italian herbs of your choice: oregano, basil, thyme, rosemary
 
 ## Directions
 
 1. Dice and cook the onion in a pan with a drizzle of oil.
 2. Add the ground beef and cook till it turns brown.
 3. Start boiling the gnocchi in a separate pot.
-4. Add the crushed tomatoes with a cup of water, then add spices.
-5. Add the gnocchi to the pan, then mix.
+4. Add the crushed tomatoes with a cup of water, then the cut carrot add spices.
+5. Allow the sauce to come to a simmer, then add the gnocchi to the pan.
 6. Top with shredded cheese.

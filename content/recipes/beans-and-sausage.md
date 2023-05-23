@@ -26,8 +26,8 @@ featured_image: "/beans-sausage.jpg"
 ## Directions
 
 1. Dice the onion and garlic.
-2. Cut the sausage in bite size pieces.
+2. Cut the sausage in slices.
 3. Cook the onion and garlic in a pan with a drizzle of oil.
 4. Add the tomato soup, spices and aromatics.
-5. Add the beans and sausage.
-6. Let the mix boil for 10 min.
+5. Allow the sauce to come to a simmer, then add the beans and sausage.
+6. Let the mix simmer for 5-10 min.

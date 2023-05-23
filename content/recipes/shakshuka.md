@@ -14,7 +14,7 @@ featured_image: "/shakshuka.jpg"
 - 1 onion
 - 4 cloves of garlic
 - 2 bell peppers
-- 1 cans of red kidney beans
+- 1 can of red kidney beans
 - 1 can of crush tomatoes
 - 4-5 eggs
 - feta cheese
@@ -34,4 +34,4 @@ featured_image: "/shakshuka.jpg"
 2. Add the crushed tomatoes and cut pepper, then add spices.
 3. Allow the sauce to come to a simmer, then add the beans.
 4. Crack the eggs over the mix, then cover the pan for 5 min.
-5. Top with parsley or coriander and crumbled feta cheese
+5. Top with parsley or coriander and crumbled feta cheese.

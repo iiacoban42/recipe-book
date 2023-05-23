@@ -12,7 +12,7 @@ featured_image: "/mexican-burrito.jpg"
 ## Ingredients
 
 - 1 onion
-- 1 cans of red kidney beans
+- 1 can of red kidney beans
 - 1 can of crush tomatoes
 - 500 g ground beef
 - 1 cup rice
@@ -33,6 +33,6 @@ featured_image: "/mexican-burrito.jpg"
 2. Add the ground beef and cook till it turns brown.
 3. Start cooking the rice in a separate pot.
 4. Add the crushed tomatoes with a cup of water, then add spices.
-5. Add the beans, cooked rice and corn to the pan, then mix.
-6. Let the mix boil for 5-10 min.
+5. Allow the sauce to come to a simmer, then add the beans, cooked rice and corn to the pan.
+6. Let the mix simmer for 5-10 min.
 7. Serve on tortilla, top with shredded cheese, then roll.
